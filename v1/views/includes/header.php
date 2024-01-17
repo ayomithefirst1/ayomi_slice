@@ -100,7 +100,7 @@
                         </ul> -->
                     </li>
                     <li class="menu-item-has-childrenn">
-                        <a href="#">Event</a>
+                        <a href="events">Event</a>
                         <!-- <ul class="sub-menu">
                             <li><a href="events.html">Events</a></li>
 
@@ -110,7 +110,6 @@
                         <a href="portfolio">Portfolio</a>
                         <!-- <ul class="sub-menu">
                             <li><a href="portfolio.html">Portfolio</a></li>
-
                         </ul> -->
                     </li>
                     <li class="menu-item-has-childrenn">
